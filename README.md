@@ -1,4 +1,4 @@
-# Calculator-C-
+# Calculator-C#-
 Calculator with "windows form app" in C#
 
 Hi, I designed an easy to use calculator. 
